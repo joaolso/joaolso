@@ -20,6 +20,8 @@ Daily Skills:
 Languages Report by: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 Shields made by: [Alexdresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+Badges Visits by: [Git-Badges](https://pufler.dev/git-badges/)
 <!--
 **joaolso/joaolso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
