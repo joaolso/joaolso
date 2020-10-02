@@ -1,3 +1,5 @@
+<img src = "https://github.com/joaolso/joaolso/blob/main/banner.png">
+
 ### Hi there, I'm João Oliveira 🚀 [![Visits Badge](https://badges.pufler.dev/visits/joaolso/joaolso)](https://badges.pufler.dev)
 ---
 I'm a Data Scientist and an enthusiast of statistics, prediction and, optimization models. My favorite languages are Python and JavaScript. I currently work in the construction of dashboards, statistical modeling, exploratory analysis and ML models. I am mainly interested in process analysis and optimization using I.A.
