@@ -2,7 +2,7 @@
 ---
 I'm a Data Scientist and an enthusiast of statistics, prediction and, optimization models. My favorite languages are Python and JavaScript. I currently work in the construction of dashboards, statistical modeling, exploratory analysis and ML models. I am mainly interested in process analysis and optimization using I.A.
 
-I am currently a master's student in the Computer Science course at UFG. I work in the computer and education nucleus, building analyzes aiming at the academic success of students. 
+I am currently a master's student in the Computer Science course at UFG. I work in the computer and education core, building analyzes aiming at the academic success of students. 
 
 - 🤝 Open for colaboration in Analytics, Data Science and Deep Learning
 - 📘 My Personal Blog [SimpleIsBetter](https://joaolso.github.io)
